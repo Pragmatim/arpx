@@ -1,7 +1,5 @@
 # arpx
-Alpine Ruby with Prince XML intalled
-
-The base alpine ruby image with a default Prince XML + msttcorefonts install
+The base Alpine Ruby image with a default Prince XML + msttcorefonts install
 
 # Current Versions
 
